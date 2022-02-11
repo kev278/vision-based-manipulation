@@ -1,3 +1,11 @@
 # Visual_Servoing
-Visual Servoing was implemented for a 2-DOF robot using visual feedback from a Camera.
-This code is to only demonstate the code, therefore no package is provided
+#Environemnt
+Robot urdf was created for a custom robot with a camera plugin
+Gazebo was used to simulate the robot and visualize the output
+#Gazebo Simulation
+![image](https://user-images.githubusercontent.com/35029771/153646390-dc14a951-ca4a-4196-8417-dfdea353131c.png)
+#Camera Output
+![image](https://user-images.githubusercontent.com/35029771/153646601-2967a395-9cc9-4877-99d9-5fddc2292963.png)
+
+#NOTE
+The package is not provided since the file is to demonstrate the code only. This work was conducted for a course Vision-based Manipulation
