@@ -1,5 +1,4 @@
 # Visual_Servoing
-#Environemnt
 Robot urdf was created for a custom robot with a camera plugin
 Gazebo was used to simulate the robot and visualize the output
 #Gazebo Simulation
@@ -7,6 +6,7 @@ Gazebo was used to simulate the robot and visualize the output
 
 #Camera_Output
 ![image](https://user-images.githubusercontent.com/35029771/153646601-2967a395-9cc9-4877-99d9-5fddc2292963.png)
+Object features were used to design a controller
 
 #NOTE
 The package is not provided since the file is to demonstrate the code only. This work was conducted for a course Vision-based Manipulation
